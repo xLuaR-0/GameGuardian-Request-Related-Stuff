@@ -3,7 +3,8 @@
 -- using loadfile() to load the stored raw content. or use load() to directly load the raw code content.
 
 local latestVersion = "6.0.1"
-local whatsNew = ""
+local whatsNew = [==[• Test Feat1
+• TestFeat2]==]
 
 return {
     ["latestVersion"] = latestVersion,
