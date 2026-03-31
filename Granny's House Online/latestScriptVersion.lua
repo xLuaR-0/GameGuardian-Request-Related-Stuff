@@ -2,8 +2,8 @@
 -- using io.open() && io.write() to store and write the obtained raw content.
 -- using loadfile() to load the stored raw content. or use load() to directly load the raw code content.
 
-local latestVersion = "6.0.1"
-local whatsNew = "• TestFeat1\n• TestFeat2"
+local latestVersion = "5.0.0"
+local whatsNew = nil
 
 return {
     ["latestVersion"] = latestVersion,
