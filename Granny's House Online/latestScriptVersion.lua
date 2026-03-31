@@ -3,7 +3,7 @@
 -- using loadfile() to load the stored raw content. or use load() to directly load the raw code content.
 
 local latestVersion = "5.0.0"
-local whatsNew = nil
+local whatsNew = "• Test1\n• Test2"
 
 return {
     ["latestVersion"] = latestVersion,
